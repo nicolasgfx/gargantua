@@ -1,0 +1,37 @@
+# Compiled binaries
+*.exe
+*.exp
+*.lib
+*.pdb
+*.ilk
+*.o
+*.obj
+
+# Intermediate renders
+*.ppm
+
+# Generated volume data
+*.bhvol
+*.f32
+*.vdb
+*.glb
+*_raw/
+
+# Visual Studio
+.vs/
+*.user
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Build artifacts
+build/
+
+# Dev containers
+.devcontainer/
